@@ -6,6 +6,9 @@ Computer vision; Deep generative models; DL framework
 
 ### CV [here](https://www.notion.so/DonghweeYoon-s-CV-fd4c6dea23c24603927fa308a4937b2a)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DonghweeYoon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Profile views](https://gpvc.arturio.dev/DonghweeYoon)
 
 <!--
