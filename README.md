@@ -1,4 +1,10 @@
-### Hi there 👋
+# Donghwee Yoon
+Master student in [Handong Global University](http://www.handong.edu/eng/)
+
+### Research interests
+Computer vision; Deep generative models; Deep-learning; Machine-learning
+
+![Profile views](https://gpvc.arturio.dev/DonghweeYoon)
 
 <!--
 **DonghweeYoon/DonghweeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
