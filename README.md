@@ -6,7 +6,7 @@ Computer vision; Deep generative models; DL framework
 
 ### CV [here](https://www.notion.so/DonghweeYoon-s-CV-fd4c6dea23c24603927fa308a4937b2a)
 
-
+![Profile views](https://gpvc.arturio.dev/DonghweeYoon)
 <!--
 **DonghweeYoon/DonghweeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
