@@ -1,8 +1,8 @@
 ## Donghwee Yoon
-Master student in [Handong Global University](http://www.handong.edu/eng/)
-
+<!-- Master student in [Handong Global University](http://www.handong.edu/eng/)
+ -->
 ### Research interests
-Computer vision; Deep generative models; DL framework
+Image Synthesis; Deep Generative Models; Computer Vision; DL Framework
 
 ![Profile views](https://gpvc.arturio.dev/DonghweeYoon)
 <!--
