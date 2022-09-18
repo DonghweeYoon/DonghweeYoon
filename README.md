@@ -5,7 +5,7 @@
 _Artistic Scientist_
 
 ### Research interests
-Image Synthesis; Deep Generative Models; Computer Vision; DL Framework
+Image Synthesis; Deep Generative Models; Computer Vision
 
 ![Profile views](https://gpvc.arturio.dev/DonghweeYoon)
 <!--
