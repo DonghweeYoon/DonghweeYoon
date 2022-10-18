@@ -2,7 +2,7 @@
 <!-- Master student in [Handong Global University](http://www.handong.edu/eng/)
  -->
  
-_Artistic Scientist_
+_Easy is no fun_
 
 ### Research interests
 Image Synthesis; Deep Generative Models; Computer Vision
