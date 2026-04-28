@@ -2,7 +2,7 @@
 
 ML Researcher in [AITRICS](http://www.aitrics.com)
  
-_"Do the right thing"_
+_"Take the high road"_
 
 <br>
 
